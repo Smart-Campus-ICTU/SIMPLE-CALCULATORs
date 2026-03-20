@@ -74,3 +74,4 @@ Clear Outputs: Displays both the interest earned and the final total balance.
  Distributed under the MIT License. See `LICENSE` for more information. 
  Author:NKINYAM PRAISES NCHA  
  Project Link:https://github.com/Nkinyampraises/simple-interest-calculator.git  
+Fixing a typo
